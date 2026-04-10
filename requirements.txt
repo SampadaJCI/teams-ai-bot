@@ -1,0 +1,7 @@
+botbuilder-core
+botbuilder-integration-aiohttp
+azure-cognitiveservices-speech
+openai
+python-dotenv
+aiohttp
+
